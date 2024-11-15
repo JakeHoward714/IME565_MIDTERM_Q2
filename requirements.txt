@@ -4,3 +4,4 @@ pandas==2.2.2
 streamlit==1.32.0
 scikit-learn==1.5.2
 MAPIE==0.9.1
+xgboost==2.1.2
